@@ -1,10 +1,16 @@
 # budgetApp
 
-A new Flutter project.
+Simple Budget App UI in Flutter.
+
+## Screens
+
+<p align="center">
+  <img src="1.jpg" width="256" height="400">
+  <img src="2.jpg" width="256" height="400">
+ 
+</p>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
